@@ -1,0 +1,49 @@
+{
+  "new": {
+    "value": 1130917484,
+    "type": "DescValueType.CLASSTYPE"
+  },
+  "using": {
+    "value": {
+      "to": {
+        "value": {
+          "container": {
+            "container": {
+              "container": {}
+            },
+            "form": "ReferenceFormType.ENUMERATED",
+            "desiredClass": "layer",
+            "enumeratedType": "ordinal",
+            "enumeratedValue": "merged"
+          },
+          "form": "ReferenceFormType.ENUMERATED",
+          "desiredClass": "channel",
+          "enumeratedType": "channel",
+          "enumeratedValue": "red"
+        },
+        "type": "DescValueType.REFERENCETYPE"
+      },
+      "calculation": {
+        "value": {
+          "enumerationType": "calculationType",
+          "enumerationValue": "multiply"
+        },
+        "type": "DescValueType.ENUMERATEDTYPE"
+      },
+      "source2": {
+        "value": {
+          "container": {
+            "container": {}
+          },
+          "form": "ReferenceFormType.ENUMERATED",
+          "desiredClass": "channel",
+          "enumeratedType": "channel",
+          "enumeratedValue": "red"
+        },
+        "type": "DescValueType.REFERENCETYPE"
+      }
+    },
+    "type": "DescValueType.OBJECTTYPE",
+    "objectType": "calculation"
+  }
+}

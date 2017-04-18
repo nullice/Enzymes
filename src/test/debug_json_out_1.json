@@ -1,0 +1,42 @@
+{
+  "null": {
+    "value": {
+      "container": {
+        "container": {
+        }
+      },
+      "form": "ReferenceFormType.ENUMERATED",
+      "desiredClass": "contentLayer",
+      "enumeratedType": "ordinal",
+      "enumeratedValue": "targetEnum"
+    },
+    "type": "DescValueType.REFERENCETYPE"
+  },
+  "to": {
+    "value": {
+      "strokeStyle": {
+        "value": {
+          "strokeStyleLineAlignment": {
+            "value": {
+              "enumerationType": "strokeStyleLineAlignment",
+              "enumerationValue": "strokeStyleAlignCenter"
+            },
+            "type": "DescValueType.ENUMERATEDTYPE"
+          },
+          "strokeStyleVersion": {
+            "value": 2,
+            "type": "DescValueType.INTEGERTYPE"
+          },
+          "strokeEnabled": {
+            "value": true,
+            "type": "DescValueType.BOOLEANTYPE"
+          }
+        },
+        "type": "DescValueType.OBJECTTYPE",
+        "objectType": "strokeStyle"
+      }
+    },
+    "type": "DescValueType.OBJECTTYPE",
+    "objectType": "shapeStyle"
+  }
+}

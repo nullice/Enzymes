@@ -1,0 +1,48 @@
+{
+  "null": {
+    "value": {
+      "container": {
+        "container": {
+        }
+      },
+      "form": "ReferenceFormType.INDEX",
+      "desiredClass": "layer",
+      "index": 1
+    },
+    "type": "DescValueType.REFERENCETYPE"
+  },
+  "freeTransformCenterState": {
+    "value": {
+      "enumerationType": "quadCenterState",
+      "enumerationValue": "QCSCorner0"
+    },
+    "type": "DescValueType.ENUMERATEDTYPE"
+  },
+  "offset": {
+    "value": {
+      "horizontal": {
+        "value": {
+          "doubleType": "pixelsUnit",
+          "doubleValue": 0
+        },
+        "type": "DescValueType.UNITDOUBLE"
+      },
+      "vertical": {
+        "value": {
+          "doubleType": "pixelsUnit",
+          "doubleValue": 0
+        },
+        "type": "DescValueType.UNITDOUBLE"
+      }
+    },
+    "type": "DescValueType.OBJECTTYPE",
+    "objectType": "offset"
+  },
+  "interfaceIconFrameDimmed": {
+    "value": {
+      "enumerationType": "interpolationType",
+      "enumerationValue": "bicubic"
+    },
+    "type": "DescValueType.ENUMERATEDTYPE"
+  }
+}

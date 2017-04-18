@@ -1,0 +1,27 @@
+{
+  "top": {
+    "doubleType": "pixelsUnit",
+    "doubleValue": 347
+  },
+  "left": {
+    "doubleType": "pixelsUnit",
+    "doubleValue": 582
+  },
+  "bottom": {
+    "doubleType": "pixelsUnit",
+    "doubleValue": 380
+  },
+  "right": {
+    "doubleType": "pixelsUnit",
+    "doubleValue": 652
+  },
+  "width": {
+    "doubleType": "pixelsUnit",
+    "doubleValue": 70
+  },
+  "height": {
+    "doubleType": "pixelsUnit",
+    "doubleValue": 33
+  },
+  "_objectType": "rectangle"
+}
